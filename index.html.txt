@@ -1,9 +1,0 @@
-<!doctype html>
-<html>
-  <head>
-    <title>¡Esta es la página del huertazo!</title>
-  </head>
-  <body>
-    <h1>Velada!!</h1>
-  </body>
-</html>
