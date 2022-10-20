@@ -373,6 +373,7 @@ footer h2{
 	background-size: 40%;
 	background-repeat: no-repeat;
 	margin: 1rem;
+	text-decoration: none;
 }
 /*.social-icon:hover{
 	background-color: #121212;
